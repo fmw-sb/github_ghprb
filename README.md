@@ -1,4 +1,1 @@
-github_ghprb
-============
-
-Test plugin: ghprb
+test 1
